@@ -1,6 +1,6 @@
 # todolist
 
-> Todo List Project
+> JGS Todo List Project
 
 ## Build Setup
 
